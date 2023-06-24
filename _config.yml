@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Bin Zhu"
   avatar           : "18857314641-45-fgt.jpg"
-  bio              : "Bin Zhu is a first-year PHD student in SYSU."
+  bio              : "Bin Zhu is a first-year PHD student in SYSU. His research interests include adversarial robustness and attacks for NLP models."
   location         : "Guangzhou, China"
   employer         :
   pubmed           : ""
